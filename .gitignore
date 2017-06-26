@@ -27,5 +27,3 @@ nbdist/
 /gradlew.bat
 /out/
 gradle/
-src/main/resources/static/
-src/main/webapp/
